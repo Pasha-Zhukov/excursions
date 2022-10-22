@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.wraperTime {
+  margin-right: 5px;
+  translate: 350% -80%;
+}
+.flightTime {
+  width: 73px;
+  height: 28px;
+  background: #c5dcff;
+  border-radius: 11px;
+  text-align: center;
+  padding-top: 5px;
+}
+
+@media (max-width: 575px) {
+  .wraperTime {
+    translate: -37% 15%;
+  }
+  .wrap {
+    margin-bottom: 15px;
+  }
+}
