@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/excursions/static/css/main.d9bd7d0e.css",
+    "main.js": "/excursions/static/js/main.46705511.js",
+    "static/media/OpenSansSemiBold.eot": "/excursions/static/media/OpenSansSemiBold.eb39b543139ce12b8965.eot",
+    "static/media/OpenSansSemiBold.ttf": "/excursions/static/media/OpenSansSemiBold.9b31534d5742fb1c883d.ttf",
+    "static/media/OpenSansRegular.eot": "/excursions/static/media/OpenSansRegular.c9ebfe940e88be9056b5.eot",
+    "static/media/OpenSansRegular.ttf": "/excursions/static/media/OpenSansRegular.1e96270eb92b148f2a25.ttf",
+    "static/media/OpenSansSemiBold.woff": "/excursions/static/media/OpenSansSemiBold.02a7b3cca38a42bfd60d.woff",
+    "static/media/OpenSansRegular.woff": "/excursions/static/media/OpenSansRegular.f815477469249e798748.woff",
+    "index.html": "/excursions/index.html",
+    "main.d9bd7d0e.css.map": "/excursions/static/css/main.d9bd7d0e.css.map",
+    "main.46705511.js.map": "/excursions/static/js/main.46705511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9bd7d0e.css",
+    "static/js/main.46705511.js"
+  ]
+}
