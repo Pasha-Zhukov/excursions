@@ -1,9 +1,8 @@
 import Page from "./components/Page";
-import "./App.css";
 
 const data = [
   {
-    img: "../images/1.png",
+    img: "1.png",
     imgText: "НОВИНКА",
     title:
       "Обзорная экскурсия по рекам и каналам с остановками Hop on Hop Off 2020",
@@ -16,7 +15,7 @@ const data = [
     subPrice: "1200 на причале",
   },
   {
-    img: "../images/2.png",
+    img: "2.png",
     imgText: "КРУГЛЫЙ ГОД",
     title:
       "Обзорная экскурсия по рекам и каналам с остановками Hop on Hop Off 2020",
@@ -29,7 +28,7 @@ const data = [
     subPrice: "1200 на причале",
   },
   {
-    img: "../images/3.png",
+    img: "3.png",
     imgText: "",
     title:
       "Обзорная экскурсия по рекам и каналам с остановками Hop on Hop Off 2020",

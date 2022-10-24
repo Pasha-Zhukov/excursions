@@ -21,11 +21,10 @@ function Page(props) {
     price,
     subPrice,
   } = props.item;
-
   return (
     <div className="container">
       <div className="container_img">
-        <img src={img} alt="" className="img" />
+        <img src={require(`../images/${img}`)} alt="img" className="img" />
         <div className="img_sticker">{imgText}</div>
       </div>
       <div className="container_description">

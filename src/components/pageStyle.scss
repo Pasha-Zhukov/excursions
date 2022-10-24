@@ -36,6 +36,7 @@
   left: 50%;
   transform: translate(-50%, 10%);
   margin-bottom: 67px;
+  padding: 0 0 10px 0;
 }
 
 .container_description {
@@ -94,8 +95,8 @@
   position: absolute;
   width: 16px;
   height: 16px;
-  background: url("../../public/images/clock-circular-outline.png") center
-    (center/cover) no-repeat;
+  background: url("../images/clock-circular-outline.png") center (center/cover)
+    no-repeat;
 }
 
 .info {
@@ -116,8 +117,7 @@
   position: absolute;
   width: 16px;
   height: 16px;
-  background: url("../../public/images/check-mark.png") center (center/cover)
-    no-repeat;
+  background: url("../images/check-mark.png") center (center/cover) no-repeat;
 }
 
 .price {
@@ -137,7 +137,7 @@
   width: 19px;
   border-radius: 0px;
   margin-left: 8px;
-  background: url("../../public/images/Rub.png") center (center/cover) no-repeat;
+  background: url("../images/Rub.png") center (center/cover) no-repeat;
 }
 
 .sub_price {
@@ -159,7 +159,7 @@
   width: 10px;
   border-radius: 0px;
   margin-left: 8px;
-  background: url("../../public/images/Rub.png") center (center/cover) no-repeat;
+  background: url("../images/Rub.png") center (center/cover) no-repeat;
 }
 
 .wreper {
@@ -222,6 +222,7 @@
       height: 44px;
       margin: 0px 0px -20px 120px;
       font-size: 14px;
+      bottom: 40px;
     }
     .time {
       position: absolute;
@@ -254,8 +255,7 @@
       width: 11px;
       border-radius: 0px;
       margin-left: 8px;
-      background: url("../../public/images/Rub.png") center (center/cover)
-        no-repeat;
+      background: url("../images/Rub.png") center (center/cover) no-repeat;
       transform: translate(0%, 20%);
     }
     .sub_price {
